@@ -27,7 +27,7 @@ Analyze customer sentiments in Flipkart laptop reviews using machine learning an
 
 - `polars`, `seaborn`, `matplotlib`
 - `nltk`, `scikit-learn`, `tensorflow`
-- `re`, `string`, `pandas` (implied)
+- `re`, `string`, `pandas` (implied using polars)
 
 ## 📈 Workflow
 
