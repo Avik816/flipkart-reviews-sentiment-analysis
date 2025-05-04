@@ -42,7 +42,7 @@ Analyze customer sentiments in Flipkart laptop reviews using machine learning an
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/flipkart-sentiment-analysis.git
+git clone https://github.com/Avik816/flipkart-sentiment-analysis.git
 cd flipkart-sentiment-analysis
 pip install -r requirements.txt
 jupyter notebook
