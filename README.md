@@ -1,6 +1,6 @@
 # 📊 Sentiment Analysis on Flipkart Product Reviews
 
-Analyze customer sentiments in Flipkart laptop reviews using machine learning and deep learning models.
+Analyzed customer sentiments in Flipkart laptop reviews using machine learning and deep learning models.
 
 ## 📁 Dataset
 
